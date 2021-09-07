@@ -3,7 +3,7 @@ public class Swap{
 
   public static void main(String[]args) 
    {
-     int x=100,y=200;
+     int x=2,y=3;
 
      System.out.println("before swap");
      System.out.println("x="+x);
